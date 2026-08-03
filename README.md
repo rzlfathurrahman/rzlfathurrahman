@@ -16,13 +16,3 @@ compatibility as a requirement, not a preference.
 | [webapp-logger](https://github.com/rzlfathurrahman/webapp-logger) | Centralized Laravel log monitor, streaming over WebSockets |
 | [md-to-img](https://github.com/rzlfathurrahman/md-to-img) | CLI that renders Markdown to an image, with syntax highlighting |
 | [rest-rajaongkir](https://github.com/rzlfathurrahman/rest-rajaongkir) | REST wrapper for RajaOngkir shipping rates, on Node and Express |
-
-<br>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rzlfathurrahman/rzlfathurrahman/output/pacman-frappe.svg" alt="contribution graph">
-</p>
-
-<p align="center">
-  <sub>Catppuccin Frappé</sub>
-</p>
