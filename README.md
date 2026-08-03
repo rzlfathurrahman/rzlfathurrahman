@@ -37,7 +37,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rzlfathurrahman/rzlfathurrahman/output/contribution-graph.svg" alt="contribution graph with falling tetrominoes">
+  <img src="https://raw.githubusercontent.com/rzlfathurrahman/rzlfathurrahman/output/pacman-frappe.svg" alt="Pac-Man eating my contribution graph">
 </p>
 
 <h3 align="center">Palette — Catppuccin Frappé</h3>
