@@ -37,7 +37,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rzlfathurrahman/rzlfathurrahman/output/github-snake-dark.svg" alt="contribution snake">
+  <img src="https://raw.githubusercontent.com/rzlfathurrahman/rzlfathurrahman/output/contribution-graph.svg" alt="contribution graph with falling tetrominoes">
 </p>
 
 <h3 align="center">Palette — Catppuccin Frappé</h3>
@@ -74,25 +74,11 @@
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/rzlfathurrahman/drivepool">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=rzlfathurrahman&repo=drivepool&hide_border=true&bg_color=303446&title_color=ca9ee6&text_color=c6d0f5&icon_color=8caaee" alt="drivepool">
-</a>
-
-Pools **N Google Drive accounts into one namespace** via rclone `union` — capacities add up, uploads land on the emptiest account. Live quota + transfer speed over WebSocket.
-
-<img src="https://img.shields.io/badge/FastAPI-%23a6d189?style=flat-square&labelColor=303446&color=a6d189" alt="FastAPI">
-<img src="https://img.shields.io/badge/React-%2399d1db?style=flat-square&labelColor=303446&color=99d1db" alt="React">
-<img src="https://img.shields.io/badge/rclone-%23ca9ee6?style=flat-square&labelColor=303446&color=ca9ee6" alt="rclone">
-<img src="https://img.shields.io/badge/WebSocket-%23ef9f76?style=flat-square&labelColor=303446&color=ef9f76" alt="WebSocket">
-
-</td>
-<td width="50%" valign="top">
-
 <a href="https://github.com/rzlfathurrahman/indonesia-region">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=rzlfathurrahman&repo=indonesia-region&hide_border=true&bg_color=303446&title_color=ca9ee6&text_color=c6d0f5&icon_color=8caaee" alt="indonesia-region">
 </a>
 
-Published npm package — Indonesian administrative-region data, modular architecture, CLI included.
+Published npm package — Indonesian administrative-region data with a modular architecture and a CLI.
 <a href="https://www.npmjs.com/package/@zalon/indonesia-wilayah"><img src="https://img.shields.io/npm/dt/@zalon/indonesia-wilayah?style=flat-square&labelColor=303446&color=ca9ee6&label=npm%20downloads" alt="downloads"></a>
 
 <img src="https://img.shields.io/badge/TypeScript-%238caaee?style=flat-square&labelColor=303446&color=8caaee" alt="TypeScript">
@@ -100,62 +86,70 @@ Published npm package — Indonesian administrative-region data, modular archite
 <img src="https://img.shields.io/badge/CLI-%23f4b8e4?style=flat-square&labelColor=303446&color=f4b8e4" alt="CLI">
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/rzlfathurrahman/hris">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=rzlfathurrahman&repo=hris&hide_border=true&bg_color=303446&title_color=ca9ee6&text_color=c6d0f5&icon_color=8caaee" alt="hris">
+<a href="https://github.com/rzlfathurrahman/webapp-logger">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=rzlfathurrahman&repo=webapp-logger&hide_border=true&bg_color=303446&title_color=ca9ee6&text_color=c6d0f5&icon_color=8caaee" alt="webapp-logger">
 </a>
 
-Modern HRIS blueprint — Go API with a React + TS front end, PostgreSQL, MinIO for object storage.
+**AG Logger** — centralized Laravel log monitor. Streams logs from every local project to one dashboard over WebSockets, scans for `composer.json` to auto-register them.
 
-<img src="https://img.shields.io/badge/Go-%2381c8be?style=flat-square&labelColor=303446&color=81c8be" alt="Go">
-<img src="https://img.shields.io/badge/Gin%20%2B%20GORM-%23e5c890?style=flat-square&labelColor=303446&color=e5c890" alt="Gin + GORM">
-<img src="https://img.shields.io/badge/PostgreSQL-%238caaee?style=flat-square&labelColor=303446&color=8caaee" alt="PostgreSQL">
-<img src="https://img.shields.io/badge/MinIO-%23e78284?style=flat-square&labelColor=303446&color=e78284" alt="MinIO">
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/rzlfathurrahman/tripmate-learning">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=rzlfathurrahman&repo=tripmate-learning&hide_border=true&bg_color=303446&title_color=ca9ee6&text_color=c6d0f5&icon_color=8caaee" alt="tripmate-learning">
-</a>
-
-Booking-platform backend built to drill queues, caching, and realtime: BullMQ jobs, Redis, Socket.IO.
-
-<img src="https://img.shields.io/badge/NestJS-%23e78284?style=flat-square&labelColor=303446&color=e78284" alt="NestJS">
-<img src="https://img.shields.io/badge/Prisma-%23babbf1?style=flat-square&labelColor=303446&color=babbf1" alt="Prisma">
-<img src="https://img.shields.io/badge/Redis-%23ea999c?style=flat-square&labelColor=303446&color=ea999c" alt="Redis">
-<img src="https://img.shields.io/badge/BullMQ-%23ef9f76?style=flat-square&labelColor=303446&color=ef9f76" alt="BullMQ">
+<img src="https://img.shields.io/badge/Laravel-%23e78284?style=flat-square&labelColor=303446&color=e78284" alt="Laravel">
+<img src="https://img.shields.io/badge/Reverb%20WS-%23ef9f76?style=flat-square&labelColor=303446&color=ef9f76" alt="Reverb WebSockets">
+<img src="https://img.shields.io/badge/Blade-%23e5c890?style=flat-square&labelColor=303446&color=e5c890" alt="Blade">
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/rzlfathurrahman/motoku">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=rzlfathurrahman&repo=motoku&hide_border=true&bg_color=303446&title_color=ca9ee6&text_color=c6d0f5&icon_color=8caaee" alt="motoku">
+<a href="https://github.com/rzlfathurrahman/md-to-img">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=rzlfathurrahman&repo=md-to-img&hide_border=true&bg_color=303446&title_color=ca9ee6&text_color=c6d0f5&icon_color=8caaee" alt="md-to-img">
 </a>
 
-Vehicle tracker app — GPS trips, weather, and a maintenance predictor.
+CLI that renders Markdown to an image — syntax highlighting, light/dark theme, custom width and resolution.
 
-<img src="https://img.shields.io/badge/Flutter-%2399d1db?style=flat-square&labelColor=303446&color=99d1db" alt="Flutter">
-<img src="https://img.shields.io/badge/Dart-%2385c1dc?style=flat-square&labelColor=303446&color=85c1dc" alt="Dart">
-<img src="https://img.shields.io/badge/GPS-%23a6d189?style=flat-square&labelColor=303446&color=a6d189" alt="GPS">
+<img src="https://img.shields.io/badge/Python-%2381c8be?style=flat-square&labelColor=303446&color=81c8be" alt="Python">
+<img src="https://img.shields.io/badge/CLI-%23f4b8e4?style=flat-square&labelColor=303446&color=f4b8e4" alt="CLI">
 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/rzlfathurrahman/dotfiles">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=rzlfathurrahman&repo=dotfiles&hide_border=true&bg_color=303446&title_color=ca9ee6&text_color=c6d0f5&icon_color=8caaee" alt="dotfiles">
+<a href="https://github.com/rzlfathurrahman/rest-rajaongkir">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=rzlfathurrahman&repo=rest-rajaongkir&hide_border=true&bg_color=303446&title_color=ca9ee6&text_color=c6d0f5&icon_color=8caaee" alt="rest-rajaongkir">
 </a>
 
-Shell-driven environment setup, kept reproducible. macOS variant lives in [dotfiles-mac](https://github.com/rzlfathurrahman/dotfiles-mac).
+REST API wrapper for RajaOngkir (Indonesian shipping rates), built with Node.js and Express.
 
-<img src="https://img.shields.io/badge/Shell-%23e5c890?style=flat-square&labelColor=303446&color=e5c890" alt="Shell">
-<img src="https://img.shields.io/badge/Linux-%23f2d5cf?style=flat-square&labelColor=303446&color=f2d5cf" alt="Linux">
-<img src="https://img.shields.io/badge/macOS-%23a5adce?style=flat-square&labelColor=303446&color=a5adce" alt="macOS">
+<img src="https://img.shields.io/badge/Node.js-%23a6d189?style=flat-square&labelColor=303446&color=a6d189" alt="Node.js">
+<img src="https://img.shields.io/badge/Express-%23babbf1?style=flat-square&labelColor=303446&color=babbf1" alt="Express">
+<img src="https://img.shields.io/badge/REST-%2385c1dc?style=flat-square&labelColor=303446&color=85c1dc" alt="REST">
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/rzlfathurrahman/silapor-native">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=rzlfathurrahman&repo=silapor-native&hide_border=true&bg_color=303446&title_color=ca9ee6&text_color=c6d0f5&icon_color=8caaee" alt="silapor-native">
+</a>
+
+Complaint-handling system — full CRUD in native PHP and CSS, no framework.
+
+<img src="https://img.shields.io/badge/PHP-%23ca9ee6?style=flat-square&labelColor=303446&color=ca9ee6" alt="PHP">
+<img src="https://img.shields.io/badge/no%20framework-%23949cbb?style=flat-square&labelColor=303446&color=949cbb" alt="no framework">
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/rzlfathurrahman/ppdb-manusa">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=rzlfathurrahman&repo=ppdb-manusa&hide_border=true&bg_color=303446&title_color=ca9ee6&text_color=c6d0f5&icon_color=8caaee" alt="ppdb-manusa">
+</a>
+
+Student-admission site built for SMK Ma'arif NU 1 Ajibarang, on CodeIgniter 3.
+
+<img src="https://img.shields.io/badge/PHP-%23ca9ee6?style=flat-square&labelColor=303446&color=ca9ee6" alt="PHP">
+<img src="https://img.shields.io/badge/CodeIgniter%203-%23e5c890?style=flat-square&labelColor=303446&color=e5c890" alt="CodeIgniter 3">
 
 </td>
 </tr>

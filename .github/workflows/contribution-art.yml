@@ -1,0 +1,29 @@
+name: contribution graph art
+
+on:
+  schedule:
+    # weekly — the graph barely changes day to day, and this keeps runner time near zero
+    - cron: "0 3 * * 1"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      # pinned to a commit SHA: this is a low-traffic third-party action
+      - uses: leereilly/contribution-graph-art@01bd3951696f7068ef256478e42da66cc806c527
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          animation_mode: tetromino
+          tetromino_count: "6"
+          palette: github-dark
+          output_path: dist/contribution-graph.svg
+
+      - uses: crazy-max/ghaction-github-pages@1d6ee9b181a81033a16bd707a1401afa978daab4 # v5.0.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
