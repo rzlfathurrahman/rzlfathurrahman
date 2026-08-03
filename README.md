@@ -14,4 +14,4 @@ Backend engineer. Fintech & edtech systems at [Cazh](https://cazh.id) — paymen
 | [hris](https://github.com/rzlfathurrahman/hris) | HRIS blueprint — Go (Gin + GORM) API, React + TS front end, MinIO for object storage. |
 | [tripmate-learning](https://github.com/rzlfathurrahman/tripmate-learning) | Booking-platform backend: NestJS, Prisma, Redis, Socket.IO, BullMQ. |
 | [motoku](https://github.com/rzlfathurrahman/motoku) | Flutter vehicle tracker — GPS, weather, maintenance predictor. |
-| [dotfiles](https://github.com/rzlfathurrahman/dotfiles) | Arch/macOS setup, kept reproducible. |
+| [dotfiles](https://github.com/rzlfathurrahman/dotfiles) · [dotfiles-mac](https://github.com/rzlfathurrahman/dotfiles-mac) | Shell-driven environment setup. |
